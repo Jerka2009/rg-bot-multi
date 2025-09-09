@@ -1,0 +1,16 @@
+{
+    "item1": {
+        "description": "first item!",
+        "price": 100,
+        "rarity": "common",
+        "currency": "⭐",
+        "sale": "true"
+    },
+    "item2": {
+        "description": "second item!",
+        "price": 75,
+        "rarity": "rare",
+        "currency": "⭐",
+        "sale": "true"
+    }
+}
